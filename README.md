@@ -16,3 +16,6 @@ you can link your local repo with a remote repository using the command
 git remote add <remote_name> <repo_url>
 
 ex: git remote add origin git@github:<org>/repo.git
+
+You can add multiple remotes to your local repo
+
